@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# TicTacToe
 
 This project is a simple implementation of the classic Tic-Tac-Toe game using Python's Tkinter library for the graphical user interface. The game is designed for two players, where they can alternate turns to place their marks (X or O) on a 3x3 grid until a winner is determined or the game ends in a draw.
 
