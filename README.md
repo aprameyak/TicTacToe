@@ -1,6 +1,6 @@
 # TicTacToe
 
-![Python](https://img.shields.io/badge/Python%2B-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-orange?style=for-the-badge)
 
 ## About
